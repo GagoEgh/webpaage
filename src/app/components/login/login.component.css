@@ -1,0 +1,13 @@
+.errore{
+    list-style: none;
+    color: tomato;
+}
+
+.btns{
+    display: flex;
+    justify-content: space-between;
+}
+
+.register{
+    background-color: rgb(23, 180, 23);
+}
